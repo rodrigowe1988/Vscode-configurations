@@ -1,6 +1,8 @@
 # Vscode-configurations
 This is the Vscode configurations that I use
 
+Teclado americano para LINUX -> Inglês (EUA, intern, com teclas mortas)
+
 ```
 {
   "workbench.colorTheme": "One Dark Pro",
